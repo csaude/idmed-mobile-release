@@ -1,5 +1,5 @@
 # iDMED Mobile (v1.4.0)
-
+Localize o arquivo .apk de instalação fornecidos no pacote desta release na pasta Code Package
 ## Relatórios 
 
 #### Relatórios de Utentes
