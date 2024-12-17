@@ -1,5 +1,5 @@
 
-# iDMED Mobile (v1.5.0 SNAPSHOT)
+# iDMED Mobile (v1.5.0)
 
 ## Funcionalidades
 
@@ -11,6 +11,6 @@
 #### Notas da Release:
 - iDMED Mobile - 1.5.0 Release Notes_Dec_2024
 #### Guia de instalação:
-- iDMED_Mobile_Guia_Instalação_1.4.0
+- iDMED_Mobile_Guia_Instalação_1.5.0
 #### Documentos de Requisitos iDMED_Mobile:
 - iDMED_Mobile_STK_FUNC_002_Distribuição_Stock
