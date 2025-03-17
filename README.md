@@ -1,16 +1,18 @@
 
-# iDMED Mobile (v1.5.0)
+# iDMED Mobile (v1.6.0)
 
 ## Funcionalidades
 
-#### Módulo de Gestão de Stock:
-- Distribuição de Stock (Novo)
+#### MMódulo de Gestão de Utentes:
+- **Alterações aplicadas em conformidade com a Ordem Executiva** -*14168*
 
 ## Documentos
 
 #### Notas da Release:
-- iDMED Mobile - 1.5.0 Release Notes_Dec_2024
+- **iDMED Mobile - 1.6.0 Release Notes_Mar_2025**
+
 #### Guia de instalação:
-- iDMED_Mobile_Guia_Instalação_1.5.0
+- **iDMED_Mobile_Guia_Instalação_1.6.0**
+
 #### Documentos de Requisitos iDMED_Mobile:
-- iDMED_Mobile_STK_FUNC_002_Distribuição_Stock
+- **iDMED_Mobile_UTE_FUNC_001_Carregamento_Utentes**
