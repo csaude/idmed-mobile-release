@@ -5,7 +5,7 @@
 
 ### Módulo de Gestão de Utentes 
 #### Gestão de prescrições e dispensas
- - **Dispensas feitas não reflectem na Base de Dados** - *Ticket #4391*
+- **Dispensas feitas não reflectem na Base de Dados** - *Ticket #4391*
 
 ---
 ### Módulo de Gestão de Stock
